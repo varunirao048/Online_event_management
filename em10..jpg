@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>customer login</title>
+<link rel="stylesheet" href="customer.css">
+</head>
+<body>
+
+<div class="cust-login-page">
+<div class="form">
+
+   <form class="login-form"></form>
+   <input type="number" placeholder="CUST-ID"/>
+   <input type="password" placeholder="PASSWORD"/>
+   <button>LOGIN</button>
+   </form>
+    </div>
+   </div>
+   </html>
+   
